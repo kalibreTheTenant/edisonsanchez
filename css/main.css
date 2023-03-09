@@ -621,3 +621,11 @@ h5, h6          { font-weight: bolder }
         width: 100%;
     }
 }
+
+/*  Responsive video  */
+video {
+  width: 100%;
+  height: auto;
+}
+
+
